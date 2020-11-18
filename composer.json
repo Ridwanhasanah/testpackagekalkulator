@@ -1,0 +1,17 @@
+{
+    "name": "bismillah/kalkulator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RidwanHasanah",
+            "email": "ridwanhasanah3@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Simanajemen\\Kalkulator\\": "src/"
+        }
+    }
+}
